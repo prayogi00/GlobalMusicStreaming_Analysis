@@ -6,7 +6,23 @@ Proyek ini bertujuan untuk menganalisis data streaming musik secara global mengg
 
 ## 📁 Struktur Proyek
 
-GlobalMusicStreaming_Analysis/ │ ├── Excel/ │ └── Global_Music_Streaming.xlsx # Data mentah, data bersih, pivot table │ ├── SQL/ │ └── Create_Tables.sql # Pembuatan skema tabel (fakta & dimensi) │ └── Data_Cleaning.sql # Pembersihan dan transformasi data │ └── Data_Exploration.sql # Agregasi dan analisis deskriptif │ ├── Power BI/ │ └── Global Music Streaming.pbix # Dashboard interaktif dengan visualisasi
+GlobalMusicStreaming_Analysis/ 
+│ 
+├── Excel/ 
+│ 
+└── Global_Music_Streaming.xlsx # Data mentah, data bersih, pivot table 
+│ 
+├── SQL/ 
+│ 
+└── Create_Tables.sql # Pembuatan skema tabel (fakta & dimensi) 
+│ 
+└── Data_Cleaning.sql # Pembersihan dan transformasi data 
+│ 
+└── Data_Exploration.sql # Agregasi dan analisis deskriptif 
+│ 
+├── Power BI/ 
+│ 
+└── Global Music Streaming.pbix # Dashboard interaktif dengan visualisasi
 
 ---
 
