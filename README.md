@@ -10,19 +10,19 @@ GlobalMusicStreaming_Analysis/
 │ 
 ├── SQL/ 
 │ 
-└── Create_Tables.sql # Pembuatan skema tabel (fakta & dimensi) 
+└── Create_Tables.sql                 # Pembuatan skema tabel (fakta & dimensi) 
 │ 
-└── Data_Cleaning.sql # Pembersihan dan transformasi data 
+└── Data_Cleaning.sql                 # Pembersihan dan transformasi data 
 │ 
-└── Data_Exploration.sql # Agregasi dan analisis deskriptif 
+└── Data_Exploration.sql              # Agregasi dan analisis deskriptif 
 │ 
 ├── Excel/ 
 │ 
-└── Global_Music_Streaming.xlsx # Data mentah, data bersih, pivot table 
+└── Global_Music_Streaming.xlsx       # Data mentah, data bersih, pivot table 
 │ 
 ├── Power BI/ 
 │ 
-└── Global Music Streaming.pbix # Dashboard interaktif dengan visualisasi
+└── Global Music Streaming.pbix       # Dashboard interaktif dengan visualisasi
 ```
 ---
 
